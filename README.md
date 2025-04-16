@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Angelina-v7
 - 👀 I’m interested in manual and automated software testing 
 - 🌱 I’m currently learning automation for software testing 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me anhelinaviarenich@yahoo.com
 - 😄 Pronouns: her/she
 - ⚡ Fun fact: I became a QA once I turned 18
 
